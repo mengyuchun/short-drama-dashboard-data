@@ -1,5 +1,14 @@
 {
-  "generated_at": "2026-05-20T04:42:34.536382",
-  "latest_hour": "2026-05-20 04:00",
-  "version": ""
+  "version": "20260520104524",
+  "generated_at": "2026-05-20 10:45:24",
+  "latest_hour": "2026-05-20 10:00",
+  "start_hour": "2026-04-27 17:00",
+  "series_count": 1150,
+  "hour_count": 28,
+  "files": [
+    "trend.json",
+    "series_trend.json",
+    "episode.json",
+    "rank_board.json"
+  ]
 }
